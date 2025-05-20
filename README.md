@@ -44,8 +44,9 @@ Este projeto implementa:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/motix-user-api.git
-cd motix-user-api
+git clone https://github.com/motix.git
+cd motix
+cd java
 
 # 2. Build do projeto
 mvn clean package -DskipTests
