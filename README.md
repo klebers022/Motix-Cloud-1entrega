@@ -107,7 +107,7 @@ sudo systemctl enable docker
 
 ### 🔷 3.5. Login no DockerHub
 ```bash
-docker login -u klebersduarte@gmail.com
+docker login -u seu usuario
 ```
 
 ### 🔷 4. Rodar container com imagem publicada
@@ -135,6 +135,3 @@ az network nsg rule create   --resource-group rg-vm-challenge   --nsg-name vm-ch
 
 ---
 
-## 📬 Contato
-
-Para dúvidas ou sugestões, abra uma *issue* neste repositório.
